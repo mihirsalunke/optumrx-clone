@@ -21,7 +21,7 @@ function App() {
         <Route path="/secure/order-status" component={OrderStatus} />
         <Route path="/secure/pharmacy-locator" component={PharmacyLocator} />
         <Route path="/secure/prescription-drug-list" component={PrescriptionDrugList} />
-        <Route path="/secure/saving-center" component={SavingsCenter} />
+        <Route path="/secure/savings-center" component={SavingsCenter} />
       </Routes>
     </Router>
   );

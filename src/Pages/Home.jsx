@@ -28,7 +28,7 @@ const Home = () => {
                         <A href="/secure/prescription-drug-list" class="text-white hover:text-orange-200">Prescription Drug List</A>
                     </li>
                     <li class="mr-6">
-                        <A href="/secure/saving-center" class="text-white hover:text-orange-200">Saving Center</A>
+                        <A href="/secure/savings-center" class="text-white hover:text-orange-200">Saving Center</A>
                     </li>
                 </ul>
             </nav>
