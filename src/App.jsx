@@ -1,13 +1,13 @@
 import { Router, Route, Routes } from "@solidjs/router";
-import Home from "./Pages/Home";
-import DrugPricing from "./Pages/DrugPricing";
-import MedicationList from "./Pages/MedicationList";
-import OrderBuilder from "./Pages/OrderBuilder";
-import OrderConfirmation from "./Pages/OrderConfirmation";
-import OrderStatus from "./Pages/OrderStatus";
-import PharmacyLocator from "./Pages/PharmacyLocator";
-import PrescriptionDrugList from "./Pages/PrescriptionDrugList";
-import SavingsCenter from "./Pages/SavingsCenter";
+import Home from "./pages/Home";
+import DrugPricing from "./pages/DrugPricing";
+import MedicationList from "./pages/MedicationList";
+import OrderBuilder from "./pages/OrderBuilder";
+import OrderConfirmation from "./pages/OrderConfirmation";
+import OrderStatus from "./pages/OrderStatus";
+import PharmacyLocator from "./pages/PharmacyLocator";
+import PrescriptionDrugList from "./pages/PrescriptionDrugList";
+import SavingsCenter from "./pages/SavingsCenter";
 
 function App() {
   return (
