@@ -3,7 +3,7 @@ import solidPlugin from 'vite-plugin-solid';
 // import devtools from 'solid-devtools/vite';
 
 export default defineConfig({
-  base: "./", // default is "/"" and it breaks in GitHub pages
+  base: "/optumrx-clone/", // default is "/"" and it breaks in GitHub pages
   plugins: [
     /* 
     Uncomment the following line to enable solid-devtools.
